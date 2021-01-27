@@ -1,0 +1,10 @@
+{
+  "name": "editor-icons",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Ruben Ohnmacht",
+  "license": "MIT",
+  "displayName": "Editor Icons",
+  "unity": "2020.2",
+  "type": "tool"
+}
